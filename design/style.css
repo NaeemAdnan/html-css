@@ -1,0 +1,15 @@
+*{
+    margin: 0%;
+    padding: 0;
+}
+
+.head{
+    background-image: url(../images/cow\ 1.jpg);
+    background-position: bottom center;
+    background-size: cover;
+    height: 100vh;
+
+}
+.head h1{
+    
+}
